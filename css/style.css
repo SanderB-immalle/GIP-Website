@@ -1,0 +1,33 @@
+header{
+    text-align: center;
+    
+}
+
+
+.welkomstwoord{
+    text-align: center;
+    
+    width: 50%;
+    height: 100%;
+    margin: auto;
+    font-size: 5vw;
+}
+.mid{
+    float: top;
+    position: absolute;
+    top: 20%;
+    left: 15%;
+    right: 15%;
+    margin: auto;
+
+}
+
+.menu {
+  position: fixed;
+  left: 0;
+  right: 10%;
+  top: 50%;
+  width: 2em;
+  margin-top: -2.5em;
+  
+}

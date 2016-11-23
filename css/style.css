@@ -4,21 +4,14 @@ header{
 }
 
 
-.welkomstwoord{
-    text-align: center;
-    
-    width: 50%;
-    height: 100%;
-    margin: auto;
-    font-size: 5vw;
-}
 .mid{
     float: top;
-    position: absolute;
+    position: relative;
     top: 20%;
     left: 15%;
     right: 15%;
-    margin: auto;
+    margin: 10vw;
+
 
 }
 

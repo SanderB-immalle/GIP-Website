@@ -1,12 +1,13 @@
 header{
     text-align: center;
+    height:10%;
     
 }
 .welkomstwoordtitel{
- font-size: 5vw;
+ font-size: 2.5vw;
 }
 .welkomstwoordtekst{
-    font-size: 5vw;
+    font-size: 2.5vw;
     display: block;
 }
 
@@ -15,13 +16,14 @@ header{
 }
 
 .mid{
-    float: top;
+    
     position: relative;
-    top: 5%;
+    padding-top:0.5vw;
     left: 5%;
     width: 75%;
     padding-bottom:2vw;
-    margin: 10vw;
+    margin-left:7vw;
+    margin-right:7vw;
 
 
 }
@@ -34,4 +36,7 @@ header{
   width: 2em;
   margin-top: -2.5em;
   
+}
+.taken{
+    background-color: blue;
 }

@@ -2,14 +2,25 @@ header{
     text-align: center;
     
 }
+.welkomstwoordtitel{
+ font-size: 5vw;
+}
+.welkomstwoordtekst{
+    font-size: 5vw;
+    display: block;
+}
 
+.welkomstwoord{
+    padding-bottom:2vw;
+}
 
 .mid{
     float: top;
     position: relative;
-    top: 20%;
-    left: 15%;
-    right: 15%;
+    top: 5%;
+    left: 5%;
+    width: 75%;
+    padding-bottom:2vw;
     margin: 10vw;
 
 

@@ -14,7 +14,9 @@ header{
 .welkomstwoord{
     padding-bottom:2vw;
 }
-
+.taken{
+    background-color: #0ff;
+}
 .mid{
     
     position: relative;

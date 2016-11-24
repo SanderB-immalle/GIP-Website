@@ -3,20 +3,8 @@ header{
     height:10%;
     
 }
-.welkomstwoordtitel{
- font-size: 2.5vw;
-}
-.welkomstwoordtekst{
-    font-size: 2.5vw;
-    display: block;
-}
 
-.welkomstwoord{
-    padding-bottom:2vw;
-}
-.taken{
-    background-color: #0ff;
-}
+
 .mid{
     
     position: relative;
@@ -42,3 +30,9 @@ header{
 .taken{
     background-color: blue;
 }
+.sidetile{
+    position: absolute;
+    top:0.5%;
+    right:0;
+    height:500%;
+    }

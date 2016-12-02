@@ -1,9 +1,17 @@
+body{
+    background-color: #f2f8fd;
+}
 header{
     text-align: center;
     height:10%;
     
 }
 
+.titel{
+    font-family: 'Raleway', cursive;
+    font-size: 52px;
+    margin-top: 1%;
+}
 
 .mid{
     
